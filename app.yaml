@@ -1,0 +1,8 @@
+runtime: php81
+
+env_variables:
+    APP_DEBUG: true
+    APP_ENV: production
+    APP_KEY: base64:IULL2eKgRp6tSywVq7wfZnAHNrOLKxl4pqo+E0qHRTQ=
+    APP_NAME: "GCP App - InertiaJS + React"
+    LOG_LEVEL: debug
